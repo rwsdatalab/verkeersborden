@@ -4,6 +4,7 @@
 [![Workshop Deel 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_2_DCNN_classificeren_vervolg.ipynb)
 
 
+----
 
 * Tijdsduur workshop: Totaal 2uur. 25 tot 35 minuten theorie en dan tot 1.5uur hands-on gedeelte. Het hands-on gedeelte zou nog iets meer kunnen worden afhankelijk van het niveau.
 * Tijd voorbereiding Workshop: Max. 1 dagdeel om zowel het theoretische en praktische gedeelte goed neer te zetten. Dus ook de laptops controleren op de werking en of de goede bestanden en meest recente update vd workshop erop staat.
