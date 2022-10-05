@@ -1,6 +1,10 @@
 # Workshop beeld herkenning.
 
+#### Neurale netwerken
 [![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_1_Verkeersborden_classificeren.ipynb)
+
+#### Clusteren
+[![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/Verkeersborden_clusteren.ipynb)
 
 #### Dataset
 
