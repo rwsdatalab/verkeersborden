@@ -3,6 +3,11 @@
 [![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_1_Verkeersborden_classificeren.ipynb)
 [![Workshop Deel 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_2_DCNN_classificeren_vervolg.ipynb)
 
+### Data Downloaden
+
+# Data (original source):
+* !wget https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
+* !wget https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
 
 ----
 
@@ -32,9 +37,6 @@ Open een terminal (ctrl+alt+t) en voer uit (regel voor regel):
 * 50 min de tutorial over verkeersborden 
 * Toon hoe te navigeren door een jupyter notebook
 
-# Data (original source):
-* !wget https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
-* !wget https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
 
 # Check environment(s):
 conda env list
