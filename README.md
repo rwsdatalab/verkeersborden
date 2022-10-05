@@ -1,11 +1,6 @@
 # Workshop beeld herkenning.
 
-### Workshop Deel 1
-
 [![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_1_Verkeersborden_classificeren.ipynb)
-
-### Workshop Deel 2
-
 [![Workshop Deel 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_2_DCNN_classificeren_vervolg.ipynb)
 
 
