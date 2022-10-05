@@ -2,10 +2,10 @@
 
 [![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_1_Verkeersborden_classificeren.ipynb)
 
-### Data Downloaden
+#### Dataset
 
-* !wget https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
-* !wget https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
+* https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
+* https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
 
 ----
 
