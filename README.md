@@ -25,9 +25,9 @@ Niveau: met programmeer ervaring
 
 ## Install
 Open een terminal (ctrl+alt+t) en voer uit (regel voor regel):
- * `git clone https://git.intranet.rws.nl/Datalab/workshops/workshops/image_recognition_traffic_signs.git`
- * `git clone git@git.intranet.rws.nl:Datalab/workshops/workshops/image_recognition_traffic_signs.git`
- * `cd image_recognition_traffic_signs`
+ * `git clone https://github.com/rwsdatalab/verkeersborden.git`
+ * `git clone git@github.com:rwsdatalab/verkeersborden.git`
+ * `cd verkeersborden`
  * `conda env create -f workshop_image.yml`
  * `source activate workshop_image`
  * `jupyter notebook 1\)\ Verkeersborden\ classificeren.ipynb`
