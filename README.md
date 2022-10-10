@@ -8,10 +8,10 @@
 
 ----
 
-* **Tijdsduur Workshop**: Totaal 2uur. Eerste gedeelte theorie gevolgd door het hands-on gedeelte.
+* **Tijdsduur Workshop**: Totaal 2 uur. Eerste gedeelte theorie gevolgd door het hands-on gedeelte.
 
-Het doel van deze workshop is eenerzijds bekent te raken met state-of-art technieken omtrent beeldherkenning en daarnaast een beter begrip te krijgen over hoe nu precies neurale netwerken werken onder de motorkap. De workshop bestaat uit twee delen, het theoretische gedeelte waar onderwerpen uitgelegd worden zoals de werking van neurale netwerken, cost functies, backpropegation, epoch maar ook het belang van train en test sets, roc/auc scores. Het workshop gedeelte bevat een jupyter notebook waarin ge-experimenteerd kan worden in de classificatie van verkeersborden. Voor de experts is er een aanvullend gedeelte wat dieper ingaat op het gebruik van meerdere lagen in het netwerk en parameter tuning, overfitting.
-Niveau: Basis met programmeer ervaring
+Het doel van deze workshop is enerzijds bekent te raken met state-of-art technieken omtrent beeldherkenning en daarnaast een beter begrip te krijgen over hoe nu precies neurale netwerken werken onder de motorkap. De workshop bestaat uit twee delen, het theoretische gedeelte waar onderwerpen uitgelegd worden zoals de werking van neurale netwerken, kostfuncties, backpropagation, epoch maar ook het belang van train- en testsets, roc/auc-scores. Het workshop gedeelte bevat een Colab notebook waarin ge-experimenteerd kan worden in de classificatie van verkeersborden. Voor de experts is er een aanvullend gedeelte wat dieper ingaat op het gebruik van meerdere lagen in het netwerk en parameter tuning, overfitting.
+Niveau: Basis met programmeer ervaring.
 
 ----
 
