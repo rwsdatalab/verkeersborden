@@ -6,6 +6,8 @@
 #### Workshop Clusteren met PCA en HOG features
 [![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/Verkeersborden_clusteren.ipynb)
 
+----
+
 #### Dataset
 Let op, deze dataset wordt automatisch gedownload in de Colab notebook dus het vereist geen handmatige actie hier.
 
