@@ -26,31 +26,10 @@ Let op, deze dataset wordt automatisch gedownload in de Colab notebook dus het v
 ----
 
 
-
-## Requirements 
-* Zie: githubrequirements.txt
-
-## Install
-Open een terminal (ctrl+alt+t) en voer uit (regel voor regel):
- * `git clone https://github.com/rwsdatalab/verkeersborden.git`
- * `git clone git@github.com:rwsdatalab/verkeersborden.git`
- * `cd verkeersborden`
- * `conda env create -f workshop_image.yml`
- * `source activate workshop_image`
- * `jupyter notebook 1\)\ Verkeersborden\ classificeren.ipynb`
-
 # Presentation
-* 15-20 minuten presentatie over inleiding machine learning
+* 25-30 minuten presentatie over inleiding machine learning
 * Beeldherkenning en de opdracht (t/m slide 10)
 * Tutorial (vanaf slide 12)
-* 50 min de tutorial over verkeersborden 
-* Toon hoe te navigeren door een jupyter notebook
-
-
-# Check environment(s):
-conda env list
-
-# Remove environment(s):
-conda env remove -n workshop_image
-
+* 35-45 min de tutorial over verkeersborden 
+* Toon hoe te navigeren door een Colab notebook
 
