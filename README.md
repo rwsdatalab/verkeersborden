@@ -26,6 +26,7 @@ Let op, deze dataset wordt automatisch gedownload in de Colab notebook dus het v
 
 # Presentation
 * 25-30 minuten presentatie over inleiding machine learning
+* 30 min presentatie over neurale netwerken
 * Beeldherkenning en de opdracht (t/m slide 10)
 * Tutorial (vanaf slide 12)
 * 35-45 min de tutorial over verkeersborden 
